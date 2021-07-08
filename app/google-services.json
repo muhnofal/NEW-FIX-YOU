@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "768740739278",
-    "project_id": "mypsikolog-77645",
-    "storage_bucket": "mypsikolog-77645.appspot.com"
+    "project_number": "22611015200",
+    "firebase_url": "https://fix-you-ea7dd-default-rtdb.firebaseio.com",
+    "project_id": "fix-you-ea7dd",
+    "storage_bucket": "fix-you-ea7dd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:768740739278:android:c9000cdab172cbb72ae89f",
+        "mobilesdk_app_id": "1:22611015200:android:f85d2895e2d4ec6eed6e45",
         "android_client_info": {
           "package_name": "com.myapps.mypsikolog"
         }
       },
       "oauth_client": [
         {
-          "client_id": "768740739278-8e2va8u1lps2dnehhue6k94ovnivc48d.apps.googleusercontent.com",
+          "client_id": "22611015200-gai665rqjdmig3t2rnl0fbmg2o8o7qk1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBEXJJfR6XO7bHYpQ1kKT-jDjKFJcqEJJE"
+          "current_key": "AIzaSyBp0kHvvdbnQu9U-gH9c20zxpJo2JRLpRk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "768740739278-8e2va8u1lps2dnehhue6k94ovnivc48d.apps.googleusercontent.com",
+              "client_id": "22611015200-gai665rqjdmig3t2rnl0fbmg2o8o7qk1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
